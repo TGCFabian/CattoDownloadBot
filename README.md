@@ -1,4 +1,5 @@
 ```diff 
++ [This is now my personal repo, if Slam does update anything, ill include it, but wont be doing anything majour myself]
 - [ DEAD REPO AND NO MORE UPDATE ]
 ```
 [![SlamDevs](https://telegra.ph/file/143032e96542e7534f073.jpg)](https://t.me/SlamDevs)
